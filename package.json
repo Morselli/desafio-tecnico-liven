@@ -12,5 +12,8 @@
   "description": "",
   "dependencies": {
     "cypress": "^13.14.0"
+  },
+  "devDependencies": {
+    "cypress-split": "^1.24.0"
   }
 }
